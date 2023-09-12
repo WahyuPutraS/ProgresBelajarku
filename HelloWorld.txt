@@ -1,1 +1,2 @@
 Bagaimanakah cara membuat hello world!!!
+untuk hari ini saya mempelajari bagaimana cara menyelesaikan sebuah conflict pada branch yang berbeda!!!
